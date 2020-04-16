@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "bryant-hou-cloudflare-challenge"
 type = "javascript"
-account_id = ""
+account_id = "0e554a406e424ab4827d80800cb76831"
 workers_dev = true
 route = ""
 zone_id = ""
